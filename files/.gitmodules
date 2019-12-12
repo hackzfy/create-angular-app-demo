@@ -1,0 +1,3 @@
+[submodule "projects/common"]
+	path = projects/common
+	url = https://github.com/hackzfy/common-demo.git
